@@ -1,33 +1,12 @@
 {
  "format": 2,
  "name": "Anthony's build",
- "version": 1,
- "author": "Anthony",
- "notes": "",
- "pushed_at": "2026-11-12T03:23:00",
+ "version": 2,
+ "author": "alh60",
+ "notes": "f2 menu fix",
+ "pushed_at": "2026-11-12T03:35:19",
  "changed": [
-  "00000_BiggerStoragesUpTo72_P",
-  "0000_ContainerUI_P",
-  "000_BetterSandbox_P",
-  "000_Better_Backpacks_P",
-  "000_Better_BackpacksforBigBaseInv_P",
-  "AuxGearWheel",
-  "BPML_GenericFunctions",
-  "BPModLoaderMod",
-  "CheatManagerEnablerMod",
-  "CheatMenu",
-  "ConsoleCommandsMod",
-  "ConsoleEnablerMod",
-  "CookingRadius",
-  "ExampleMod",
-  "Keybinds",
-  "LineTraceMod",
-  "MapMod",
-  "SplitScreenMod",
-  "TrueHealthBars",
-  "UE4SS / mod loaders",
-  "WhatsThis",
-  "shared"
+  "WhatsThis"
  ],
  "mods": [
   "00000_BiggerStoragesUpTo72_P",
@@ -4137,57 +4116,57 @@
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/data.lua": {
    "sha256": "64d8fc4ec99f786e1d041edf539fa3ee9d9f6eb73307632d4320adcc06b64e77",
    "size": 470077,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/distill.lua": {
    "sha256": "95c8239ddb7ccc131cbee51b62297116c4e1418d24cade4ef1da0a55083d34f4",
    "size": 4905,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/fishing.lua": {
    "sha256": "32252d1b8adfa092341d6ae8906372bf0ac644268d95ad43be995a978da2d513",
    "size": 3516,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/icons.lua": {
    "sha256": "256586fbd9e95e96c672a15a94297515c892bdb4db2fdc8ba7324cd713f96088",
    "size": 232070,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/locations.lua": {
    "sha256": "bbfe37d730968f00099c245f0941d0360e7630b3554ff92b53a922b6c43c8e54",
    "size": 545357,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/main.lua": {
-   "sha256": "ed7026410a5024a7721c7450e3357c355012144744354612f5000dacce612f12",
-   "size": 66803,
-   "pack": "5bd6792b288802ffa0284752"
+   "sha256": "78e8ab27217cc775282e81578b6c1a83602b028b035afd31962715d950f6b7ce",
+   "size": 67432,
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/trades.lua": {
    "sha256": "3bb295972078c63bbf398cbae6f2ea03a835b246fd10f9e7e1fbaf3351e45ee7",
    "size": 5212,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/wiki.lua": {
    "sha256": "1a2ebd432c6fb16c43234aa6920fea1dff1b47c44da49c4fb6b8a5d3e42c1dfc",
    "size": 2029545,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/wikidrops.lua": {
    "sha256": "b0ef5403b311aa8b8dc4c26a4c749c4b0a884363944c9d4f6e2cf448fb2e95fa",
    "size": 19878,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/Scripts/wikilinks.lua": {
    "sha256": "20883e287e6c34a793627923bd62dc4ebeedd9492d1c2deab83d5de7521f318f",
    "size": 255126,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/WhatsThis/enabled.txt": {
    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
    "size": 1,
-   "pack": "5bd6792b288802ffa0284752"
+   "pack": "8dee4b3559370f73b14fb174"
   },
   "Binaries/Win64/ue4ss/Mods/mods.txt": {
    "sha256": "86ca0b36121bfb47d3f4abf6dd25421f470047f847ef4453d6441c707adef8f4",
