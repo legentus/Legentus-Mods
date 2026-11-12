@@ -1,14 +1,12 @@
 {
  "format": 2,
  "name": "Anthony's build",
- "version": 3,
+ "version": 4,
  "author": "alh60",
- "notes": "Fixed: a crash that could happen whenever the game changed the liquid in a container, for example during a quick transfer to storage. The hook that caused it has been removed.\nNo gameplay change: that hook never actually worked in this UE4SS version, so emptying soup from a Quantum Pot still gives you a regular pot, same as before.",
- "pushed_at": "2026-11-12T04:41:28",
+ "notes": "Fixed: random crashes, including when a friend joins your game. All of Cheat Menu\u2019s timers now run on the game\u2019s main thread.",
+ "pushed_at": "2026-11-12T04:51:19",
  "changed": [
-  "CheatMenu",
-  "CookingRadius",
-  "MapMod"
+  "CheatMenu"
  ],
  "mods": [
   "00000_BiggerStoragesUpTo72_P",
@@ -126,24 +124,24 @@
    "pack": "3d20d1b1ea54579a95632107"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/Scripts/main.lua": {
-   "sha256": "a442f3e30cff026cf2b674783eb03cd5b623b7326a7ef26c747183a48cc5eb18",
-   "size": 38638,
-   "pack": "126e1a45a5c417a249303d89"
+   "sha256": "f1dc1d64edf1406f80abb6e9bf58bf75d293c71bb66665d1d1460dc62a9979c4",
+   "size": 38691,
+   "pack": "8d5db0b468e4845aa2578400"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/Scripts/rules_data.txt": {
    "sha256": "29a976674af8934a06de82c911d8bbd1fe15e1ee841a57d9748e7b94ccdf649a",
    "size": 17925,
-   "pack": "126e1a45a5c417a249303d89"
+   "pack": "8d5db0b468e4845aa2578400"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/enabled.txt": {
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
-   "pack": "126e1a45a5c417a249303d89"
+   "pack": "8d5db0b468e4845aa2578400"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/settings.txt": {
    "sha256": "405086a75307b61abbf713108bab0d2e023ed8f701431d7c7d145c092e471f45",
    "size": 94,
-   "pack": "126e1a45a5c417a249303d89"
+   "pack": "8d5db0b468e4845aa2578400"
   },
   "Binaries/Win64/ue4ss/Mods/ConsoleCommandsMod/Scripts/dump_object.lua": {
    "sha256": "365b7e8a803f8ae917f54f6c852854c681e388227dd1f94b0ea3f6fb938b5086",
