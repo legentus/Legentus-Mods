@@ -1,12 +1,11 @@
 {
  "format": 2,
  "name": "Anthony's build",
- "version": 9,
+ "version": 10,
  "author": "alh60",
  "notes": "",
- "pushed_at": "2026-11-20T03:33:13",
+ "pushed_at": "2026-11-20T03:42:55",
  "changed": [
-  "CheatMenu",
   "InstancedLoot"
  ],
  "mods": [
@@ -218,37 +217,37 @@
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/NOTES.md": {
    "sha256": "159931ce4b3e9c21068a6be72b07c013e14336cfba14a2188e9c5b5ef1c6661d",
    "size": 2226,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/Scripts/main.lua": {
-   "sha256": "0986de2cae96aa6f3489249598cb919622ddeb3766794358745dd8d8e1d70432",
-   "size": 91486,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "sha256": "04adc35c525f2f3611cd328943d202e1d9077161866cce4fcadafee1a8ee5b75",
+   "size": 94175,
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/data_Facility_69420.lua": {
    "sha256": "c3685f1dc0ec0a9aca93a7ee26f5d0fa73395255139ba5a77598fcbd59649a47",
    "size": 73412,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/data_TheGrove_M_.lua": {
-   "sha256": "cc0812f4a3b045c70385f88690b422bf69b066c7e440c44ca2b5253dc9623a82",
-   "size": 59898,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "sha256": "515a26f93d0a068b4958cbd36c0b8414916f14427047ff3297cf6965efec3fdc",
+   "size": 59698,
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/enabled.txt": {
    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
    "size": 1,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/loot_log.txt": {
-   "sha256": "7e0d29a0dff9f862c0b810535dc34b3974829b896db4bdfa33f93972abd63d3d",
-   "size": 65635,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "sha256": "a41a30dd435b706e3b1aeaf34d988cd6d3c9fd5ab3d9f7070c377ff46a0562de",
+   "size": 1059,
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/settings.txt": {
    "sha256": "a949b7ba40512dde54fe97bddaa3a5405d17a1ca7a1fddba8f6a08d035c35505",
    "size": 1141,
-   "pack": "553b76aa5afc9ff62ff8954e"
+   "pack": "94a623fd2c8cd1e30106fb13"
   },
   "Binaries/Win64/ue4ss/Mods/ItemStandNames/Scripts/main.lua": {
    "sha256": "599c1c48f1c9872890b3e481210fca55be41c934b5a926ca4a5d0988867dde45",
