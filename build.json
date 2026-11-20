@@ -1,22 +1,13 @@
 {
  "format": 2,
  "name": "Anthony's build",
- "version": 8,
+ "version": 9,
  "author": "alh60",
  "notes": "",
- "pushed_at": "2026-11-20T02:39:15",
+ "pushed_at": "2026-11-20T03:33:13",
  "changed": [
-  "AuxGearWheel",
   "CheatMenu",
-  "HitchProbe",
-  "InstancedLoot",
-  "ItemStandNames",
-  "JumpPackTweak",
-  "MapMod",
-  "ModKeybinds",
-  "QuickStow",
-  "WhatsThis",
-  "shared"
+  "InstancedLoot"
  ],
  "mods": [
   "00000_BiggerStoragesUpTo72_P",
@@ -140,24 +131,29 @@
    "pack": "3d20d1b1ea54579a95632107"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/Scripts/main.lua": {
-   "sha256": "99244cfdeb492ad4f43a3145b8b41e82c00ae84000ef914418c242c00d70a21f",
-   "size": 46996,
-   "pack": "b349686677b2a428cc907ce5"
+   "sha256": "3262844709fbe2c2c9db7de4d0fe9ff6dd8c95a046aab92ce51a6eeb940175ba",
+   "size": 47258,
+   "pack": "b6f198949e498439ba7d1b37"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/Scripts/rules_data.txt": {
    "sha256": "53c1ab1d968575949b0b7f3bd9d12b59c1c03c352850efa8c3ced0056edae586",
    "size": 18174,
-   "pack": "b349686677b2a428cc907ce5"
+   "pack": "b6f198949e498439ba7d1b37"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/enabled.txt": {
    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
-   "pack": "b349686677b2a428cc907ce5"
+   "pack": "b6f198949e498439ba7d1b37"
+  },
+  "Binaries/Win64/ue4ss/Mods/CheatMenu/salvaged_TheGrove_M_.txt": {
+   "sha256": "1db6cfcb48b33768637756f0a45a1e4513ae714a2663976f8ce9187a763fa304",
+   "size": 26,
+   "pack": "b6f198949e498439ba7d1b37"
   },
   "Binaries/Win64/ue4ss/Mods/CheatMenu/settings.txt": {
    "sha256": "55cf7681ff0908a8d678871f6e322e88113fb719a486fe3fe69e6a70643c773a",
    "size": 95,
-   "pack": "b349686677b2a428cc907ce5"
+   "pack": "b6f198949e498439ba7d1b37"
   },
   "Binaries/Win64/ue4ss/Mods/ConsoleCommandsMod/Scripts/dump_object.lua": {
    "sha256": "365b7e8a803f8ae917f54f6c852854c681e388227dd1f94b0ea3f6fb938b5086",
@@ -222,37 +218,37 @@
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/NOTES.md": {
    "sha256": "159931ce4b3e9c21068a6be72b07c013e14336cfba14a2188e9c5b5ef1c6661d",
    "size": 2226,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/Scripts/main.lua": {
-   "sha256": "ebcf4d12a7028c019791ad3864767a5c9a9d809d479aee000dc2ef6afe651f6c",
-   "size": 88337,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "sha256": "0986de2cae96aa6f3489249598cb919622ddeb3766794358745dd8d8e1d70432",
+   "size": 91486,
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/data_Facility_69420.lua": {
    "sha256": "c3685f1dc0ec0a9aca93a7ee26f5d0fa73395255139ba5a77598fcbd59649a47",
    "size": 73412,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/data_TheGrove_M_.lua": {
-   "sha256": "633b9abe8a80941dc6e8bc8aa1464463d5b94fe0e56d2753654f04a440eb20f4",
-   "size": 54075,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "sha256": "cc0812f4a3b045c70385f88690b422bf69b066c7e440c44ca2b5253dc9623a82",
+   "size": 59898,
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/enabled.txt": {
    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
    "size": 1,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/loot_log.txt": {
-   "sha256": "63f0048730ec23021e083c9aa165bbba14886972b18a2a1effbc065c4f44ab50",
-   "size": 102,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "sha256": "7e0d29a0dff9f862c0b810535dc34b3974829b896db4bdfa33f93972abd63d3d",
+   "size": 65635,
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/InstancedLoot/settings.txt": {
    "sha256": "a949b7ba40512dde54fe97bddaa3a5405d17a1ca7a1fddba8f6a08d035c35505",
    "size": 1141,
-   "pack": "2b6bc8b90c5cf7d0a66af209"
+   "pack": "553b76aa5afc9ff62ff8954e"
   },
   "Binaries/Win64/ue4ss/Mods/ItemStandNames/Scripts/main.lua": {
    "sha256": "599c1c48f1c9872890b3e481210fca55be41c934b5a926ca4a5d0988867dde45",
